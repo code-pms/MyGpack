@@ -18,7 +18,6 @@
 # error precaution.
 set -e
 # default unzip folder.
-git init
 DIR='app/main'
 mkdir -p "$DIR"
 
