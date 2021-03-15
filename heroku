@@ -36,6 +36,7 @@ _startbot () {
     cd $DIR/*
     echo -e "\n\n   >><< --- >><< ---=>  Starting [X]  <=--- >><< --- >><<\n\n"
     sleep 5
+    git init
     bash run
 }
 
