@@ -46,7 +46,7 @@
 		{ "url": "https://github.com/code-rgb/heroku-buildpack-chromedriver" },
 		{ "url": "https://github.com/chrismytton/heroku-buildpack-jq.git" },
 		{ "url": "https://github.com/justaprudev/heroku-buildpack-neofetch.git" },
-		{ "url": "https://github.com/code-pms/heroku-buildpack-mediainfo.git" },
+		{ "url": "https://github.com/iTzBlack007/heroku-buildpack-mediainfo.git" },
 		{ "url": "heroku/python" }
 	]
 }
